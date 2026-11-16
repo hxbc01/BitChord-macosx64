@@ -3,6 +3,8 @@
 .vscode/
 /build/
 /app/build/
+/desktopApp/bin/
+/dist/
 build/
 gradle-app.setting
 !gradle-wrapper.jar
